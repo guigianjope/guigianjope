@@ -1,4 +1,4 @@
-### Hello there 👋 [![SW Badge](https://emojis.slackmojis.com/emojis/images/1574728599/7210/mandalorian.png?1574728599]
+### Hello there 
 
 My name is Guilherme Gianjope from Brazil (🇧🇷). I have a beautiful wife and a cute little dog. I've been working with technology since 2011. I'm very creative and passionate about Front-End Development.
 
