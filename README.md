@@ -2,7 +2,7 @@
 
 My name is Guilherme Gianjope from Brazil (🇧🇷). I have a beautiful wife and a cute little dog. 
 
-I've been working with technology since 2011. I'm very creative and passionate about Front-End Development.
+I've been working with technology since 2011. I'm very creative and passionate about Technology.
 
 In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), and I like to talk about life with a beer (🍺).
 
